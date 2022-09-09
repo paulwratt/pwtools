@@ -12,9 +12,10 @@
 (hold CTRL while clicking to open links in a new window)
 
 <center>
+
 <img src="./docs/images/greasemonkey.png" height=20> GreaseMonkey 
-<img src="./docs/images/tampermonkey.png" height=20> TamperMonkey
-<img src="./docs/images/violentmonkey.png" height=20> Violentmonkey
+<img src="./docs/images/tampermonkey.png" height=20> TamperMonkey 
+<img src="./docs/images/violentmonkey.png" height=20> Violentmonkey 
 
 [ [Stylish](https://userstyles.org/) | [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) | [TamperMonkey](https://www.tampermonkey.net/) | [ViolentMonkey](https://violentmonkey.github.io/) ]
 
@@ -24,6 +25,7 @@
 <img src="./docs/images/opera.png" height=20> Opera 
 <img src="./docs/images/vivaldi.png" height=20> Vivaldi
 <img src="./docs/images/chromium.png" height=20> More Chromium based browsers
+
 </center>
 
 ### installing
