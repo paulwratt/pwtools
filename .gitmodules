@@ -1,0 +1,6 @@
+[submodule "imperial-hero-2-pwtools"]
+	path = imperial-hero-2-pwtools
+	url = https://github.com/paulwratt/imperial-hero-2-pwtools
+[submodule "torn-city-pwtools"]
+	path = torn-city-pwtools
+	url = https://github.com/paulwratt/torn-city-pwtools
