@@ -16,8 +16,8 @@
    - [ReAttack Pest userscript](https://github.com/paulwratt/torn-city-pwtools/blob/master/rapest.torn.user.js) - Allow to add player to Friends or Black lists after being mugged. Allow ReChain for "+3.00 fair fight" profiles in Friends or Black lists (see wiki for usage) - ([install&nbsp;.user.js&nbsp;v2.11](https://github.com/paulwratt/torn-city-pwtools/raw/master/rapest.torn.user.js))
  - [nz-kiwibank-pwtools](https://github.com/paulwratt/nz-kiwibank-pwtools) - KiwiBank (NZ)
    - [Auto-Refresh Accounts](https://github.com/paulwratt/nz-kiwibank-pwtools/blob/main/kiwibank.user.js) after login, while you are waiting for your account transactions to update, randomly auto-click _Resfresh_ per minute (adjustable) - ([install&nbsp;.user.js&nbsp;v1.0.3](https://github.com/paulwratt/nz-kiwibank-pwtools/raw/main/kiwibank.user.js))
- - [gmail-html-pwtools](https://github.com/paulwratt/gmail-html-pwtools/blob/main/gmail-html.user.js) - for Gmail Plain View (HTML, fast), not for Standard View (JS App, Slow)
-   - [Multi-Select Checkboxes](https://github.com/paulwratt/gmail-html-pwtools/blob/main/gmail-html.user.js) adds (my) Gmail Standard View background, the missing _"Select All"_ checkboxes, and _full label names_ to the options dropdown menu - ([install&nbsp;.user.js&nbsp;v1.10.3](https://github.com/paulwratt/gmail-html-pwtools/raw/main/gmail-html.user.js))
+ - [gmail-html-pwtools](https://github.com/paulwratt/gmail-html-pwtools) - for Gmail Plain View (HTML, fast), not for Standard View (JS App, Slow)
+   - [Multi-Select Checkboxes](https://github.com/paulwratt/gmail-html-pwtools/blob/main/gmail-html.user.js) adds (my) Gmail Standard View background, the missing _"Select All"_ checkboxes, and _full label names_ to the options dropdown menu - ([install&nbsp;.user.js&nbsp;v1.10.7](https://github.com/paulwratt/gmail-html-pwtools/raw/main/gmail-html.user.js))
 
 ## todo list
 

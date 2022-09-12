@@ -7,3 +7,6 @@
 [submodule "nz-kiwibank-pwtools"]
 	path = nz-kiwibank-pwtools
 	url = https://github.com/paulwratt/nz-kiwibank-pwtools
+[submodule "gmail-html-pwtools"]
+	path = gmail-html-pwtools
+	url = https://github.com/paulwratt/gmail-html-pwtools
