@@ -4,3 +4,6 @@
 [submodule "torn-city-pwtools"]
 	path = torn-city-pwtools
 	url = https://github.com/paulwratt/torn-city-pwtools
+[submodule "nz-kiwibank-pwtools"]
+	path = nz-kiwibank-pwtools
+	url = https://github.com/paulwratt/nz-kiwibank-pwtools
