@@ -25,7 +25,7 @@
  - github-pwtools - a collection of various GitHub & GH Gist specific scripts
  - gitlab-pwtools - the GitLab versions of the GH specific scripts
  - serenityos-devel-pwtools - a collection of GitHub related developer analysis CLI tools (classified commit details as text objects in the FileSystem - ie. grep-able)
- - bas-2.5-plus-pwtools - a collection of various [Bas](http://moira.de/), [Bas-2.5-plus](https://github.com/paulwratt/bas-2.5-plus) & [Bas-2.5-pw](https://github.com/paulwratt/bas-2.5-pw), ECMA-116/ANSI-86/SBASIC (Dartmouth) Basic shell scripts and associated Basic program utilities
+ - bas-2.5-plus-pwtools - a collection of various [Bas](http://www.moria.de/~michael/bas/), [Bas-2.5-plus](https://github.com/paulwratt/bas-2.5-plus) & [Bas-2.5-pw](https://github.com/paulwratt/bas-2.5-pw), ECMA-116/ANSI-86/SBASIC (Dartmouth) Basic shell scripts and associated Basic program utilities
 
 ## how to use
  - **userstyles** use Stylish for FF/Chrome/Chromium/Android, or add Custom User CSS to you browser
